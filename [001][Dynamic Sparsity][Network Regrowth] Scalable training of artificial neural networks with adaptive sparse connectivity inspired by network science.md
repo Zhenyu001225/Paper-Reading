@@ -1,4 +1,4 @@
-Title: [001][Dynamic Sparsity][Network Regrowth] Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science
+Title: [001][Dynamic Sparsity][Network Regrowth] Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science//
 Authors: Decebal Constantin Mocanu, Elena Mocanu, Peter Stone, Phuong H. Nguyen, Madeleine Gibescu, Antonio Liotta
 Affiliations: Eindhoven University of Technology
 Publication Venue: Nature Communication 2018
